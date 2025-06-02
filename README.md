@@ -1,16 +1,25 @@
-## Hi there 👋
+## Bem vindo ao meu GitHub
 
-<!--
-**FelipeCampoSilva/FelipeCampoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor **Back-End e Front-End**  
+🎨 Designer e 🧠 Analista de Dados  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias :
+- 🐍 Python
+- 🌐 HTML5 + CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Interesses:
+- Desenvolvimento Web  
+- Design de interfaces  
+- Análise de dados e visualização   
+
+### 📫 Contatos:
+[![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
+
+![Descrição do gif]([https://media.giphy.com/media/YSEv6YI2kzQIM/giphy.gif](https://i.pinimg.com/originals/d4/b0/f6/d4b0f62f8936a540084d84a0bcd7fe27.gif))
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://link-para-imagem-dark-mode">
+  <source media="(prefers-color-scheme: light)" srcset="https://link-para-imagem-light-mode">
+  <img alt="Descrição" src="https://link-padrão-caso-falhe.png">
+</picture>
