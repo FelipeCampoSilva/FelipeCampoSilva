@@ -1,18 +1,19 @@
 
-## Bem vindo ao meu GitHub
+## Welcome to my GitHub
 
-💻 Desenvolvedor **Back-End e Front-End**  
-🎨 Designer e 🧠 Analista de Dados  
+💻 Back-End and Front-End Developer  
+🎨 Designer and 🧠 Data Analyst  
 
-### 🛠️ Tecnologias :
-- 🐍 Python
-- 🌐 HTML5 + CSS3
+🛠️ Technologies:  
+🐍 Python  
+🌐 HTML5 + CSS3  
 
-### 📈 Interesses:
-- Desenvolvimento Web  
-- Design de interfaces  
-- Análise de dados e visualização   
+📈 Interests:  
+- Web Development  
+- Interface Design  
+- Data Analysis and Visualization  
 
+📫 Contact:
 ### 📫 Contatos:
  [![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipecamposilva@outlook.com)
