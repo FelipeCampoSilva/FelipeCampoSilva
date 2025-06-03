@@ -14,8 +14,8 @@
 - Análise de dados e visualização   
 
 ### 📫 Contatos:
-[![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
-
+ [![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
+[![Gmail](mailto:monkeycampos20@gmail.com)
 
 
 <html>
