@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub
 
-💻 Back-End and Front-End Developer &nbsp;  дизайнер 🧠 Data Analyst
+💻 Back-End and Front-End Developer &nbsp; 🧠 Data Analyst
 
 ---
 
