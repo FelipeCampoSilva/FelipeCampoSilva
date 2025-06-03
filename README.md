@@ -15,7 +15,11 @@
 
 ### 📫 Contatos:
  [![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
-[Gmail](mailto:monkeycampos20@gmail.com)
+ [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipecamposilva@outlook.com)
+ [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fellipecampox)
+
+
+
 
 
 <html>
