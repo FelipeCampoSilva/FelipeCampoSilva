@@ -2,25 +2,19 @@
 
 ## Welcome to my GitHub
 
-<html>
-
-<head>
-
-</head>
-
-<body>
+<p align="center">
  
-<p>💻 Back-End and Front-End Developer </p> 
-<p>🎨 Designer and 🧠 Data Analyst</p>  
+💻 Back-End and Front-End Developer 
+🎨 Designer and 🧠 Data Analyst  
 
-<h2>🛠️ Technologies:</h2>  
-<p>🐍 Python</p>  
-<p>🌐 HTML5 + CSS3</p>  
+🛠️ Technologies:
+🐍 Python
+🌐 HTML5 + CSS3
 
-<h2>📈 Interests: </h2>
-<p>- Web Development</p>  
-<p>- Interface Design</p>  
-<p>- Data Analysis and Visualization</p>  
+📈 Interests: 
+- Web Development
+- Interface Design  
+- Data Analysis and Visualization 
 
 📫 Contact:
 ### 📫 Contatos:
@@ -31,10 +25,16 @@
 
 
 
+<html>
 
+<head>
+ 
+</head>
 
-
+<body>
   <img src="https://64.media.tumblr.com/9588ab5a85924b907dee32d491344a8c/tumblr_op0qs2zShX1rb1rgoo1_540.gif" width="400">
 
   </body>
 </html>
+
+</p>
