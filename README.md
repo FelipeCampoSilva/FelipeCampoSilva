@@ -17,4 +17,4 @@
 [![LinkedIn](https://img.shields.io/badge/-Felipe%20Campos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/felipe-campos-583003112)](https://br.linkedin.com/in/felipe-campos-583003112)
 
 
-<img src="[https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif](https://64.media.tumblr.com/9588ab5a85924b907dee32d491344a8c/tumblr_op0qs2zShX1rb1rgoo1_540.gif)" width="400" alt="Link animado programando">
+<img src="[[https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif](https://64.media.tumblr.com/9588ab5a85924b907dee32d491344a8c/tumblr_op0qs2zShX1rb1rgoo1_540.gifv)](https://64.media.tumblr.com/9588ab5a85924b907dee32d491344a8c/tumblr_op0qs2zShX1rb1rgoo1_540.gif)" width="400">
